@@ -1,0 +1,210 @@
+.ac {
+    align-items: center;
+}
+.bgaaa {
+    background-color: #aaa;
+}
+.bgbl {
+    background-color: black;
+}
+.bgccc {
+    background-color: #ccc;
+}
+.bgddd {
+    background-color: #ddd;
+}
+.bgeee {
+    background-color: #eee;
+}
+.bgwh {
+    background-color: white;
+}
+.cbl {
+    color: black;
+}
+.caaa {
+    color: #aaa;
+}
+.cccc {
+    color: #ccc;
+}
+.cddd {
+    color: #ddd;
+}
+.ceee {
+    color: #eee;
+}
+.cwh {
+    color: white;
+}
+.db {
+    display: block;
+}
+.df {
+    display: flex;
+}
+.dg {
+    display: grid;
+}
+.fc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fd {
+    flex-direction: row-reverse;
+}
+.fw {
+    flex-wrap: wrap;
+}
+.g10 {
+    gap: 10px;
+}
+.g20 {
+    gap: 20px;
+}
+.hf {
+    height: 100%;
+}
+.hvh {
+    height: 100vh;
+}
+.pa {
+    position: absolute;
+}
+.p5 {
+    padding: 5px;
+}
+.p10 {
+    padding: 10px;
+}
+.p15 {
+    padding: 15px;
+}
+.p20 {
+    padding: 20px;
+}
+.pb5 {
+    padding-bottom: 5px;
+}
+.pb10 {
+    padding-bottom: 10px;
+}
+.pb15 {
+    padding-bottom: 15px;
+}
+.pb20 {
+    padding-bottom: 20px;
+}
+.pf {
+    position: fixed;
+    width: 100%;
+}
+.pr {
+    position: relative;
+}
+.ps {
+    position: sticky;
+    top: 0;
+}
+.pt5 {
+    padding-top: 5px;
+}
+.pt10 {
+    padding-top: 10px;
+}
+.pt15 {
+    padding-top: 15px;
+}
+.pt20 {
+    padding-top: 20px;
+}
+.m5 {
+    margin: 5px;
+}
+.m10 {
+    margin: 10px;
+}
+.m15 {
+    margin: 15px;
+}
+.m20 {
+    margin: 20px;
+}
+.mb5 {
+    margin-bottom: 5px;
+}
+.mb10 {
+    margin-bottom: 10px;
+}
+.mb15 {
+    margin-bottom: 15px;
+}
+.mb20 {
+    margin-bottom: 20px;
+}
+.mt5 {
+    margin-top: 5px;
+}
+.mt10 {
+    margin-top: 10px;
+}
+.mt15 {
+    margin-top: 15px;
+}
+.mt20 {
+    margin-top: 20px;
+}
+.rad6 {
+    border-radius: 6px;
+}
+.rad10 {
+    border-radius: 10px;
+}
+.rad15 {
+    border-radius: 15px;
+}
+.rad20 {
+    border-radius: 20px;
+}
+.radf {
+    border-radius: 50%;
+}
+.sb {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tc {
+    text-align: center;
+}
+.wf {
+    width: 100%;
+}
+.jc {
+    justify-content: center;
+}
+.js {
+    justify-content: space-between;
+}
+.z2 {
+    z-index: 2;
+}
+.z3 {
+    z-index: 3;
+}
+@media(max-width: 767px) {
+    .hm {
+        display: none;
+    }
+}
+@media(max-width: 992px) {
+    .ht {
+        display: none;
+    }
+}
+@media(min-width: 1200px) {
+    .hl {
+        display: none;
+    }
+}
